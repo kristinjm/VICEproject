@@ -17,8 +17,8 @@ namespace PI_Inserter
         public Form1()
         {
             InitializeComponent();
-            label2.Text = "When you start this program, it updates the PI points from S14 with new values every 10 seconds."; //'S14_APS_RPM', 'S14_APS_Press', and 'S14_APS_Flow'
-            timer1.Interval = 10000;
+            label2.Text = "When you start this program, it updates the PI points from S14 with new values every 5 seconds."; //'SP14VICE_Temp', 'SP14VICE_Pressure', and 'SP14VICE_Flow'
+            timer1.Interval = 5000;
             timer1.Enabled = true;
         }
 
@@ -36,11 +36,11 @@ namespace PI_Inserter
                 updatePointConnection = 1;
                 connectionCount = 0;
             }
-            float updatePointRpm = (float)(DateTime.Now.Minute + DateTime.Now.Second) / 3; //random generation equation for rpm
+            float updatePointTemp = (float)(DateTime.Now.Minute + DateTime.Now.Second) / 3; //random generation equation for rpm
             float updatePointFlow = (float)(DateTime.Now.Minute * 4 + DateTime.Now.Second) / 3; //random generation equation for flow
             float updatePointPress = (float)(DateTime.Now.Minute / 7 + DateTime.Now.Second) / 3; //random generation equation for press
-            manipulatePIPoint(updatePointRpm, updatePointFlow, updatePointPress, updatePointConnection);
-            label1.Text = updatePointRpm.ToString();
+            manipulatePIPoint(updatePointTemp, updatePointFlow, updatePointPress, updatePointConnection);
+            label1.Text = updatePointTemp.ToString();
             label3.Text = updatePointFlow.ToString();
             label4.Text = updatePointPress.ToString();
             label8.Text = updatePointConnection.ToString();
@@ -65,7 +65,7 @@ namespace PI_Inserter
                 {
 
                     myPI.setPiPointValue("SP14VICE_Connection", myTruncate(value4, 2));
-                    myPI.setPiPointValue("SP14VICE_RPM", myTruncate(value, 2));
+                    myPI.setPiPointValue("SP14VICE_Temp", myTruncate(value, 2));
                     myPI.setPiPointValue("SP14VICE_Pressure", myTruncate(value2, 2));
                     myPI.setPiPointValue("SP14VICE_Flow", myTruncate(value3, 2));
                 }

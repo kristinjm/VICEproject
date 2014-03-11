@@ -103,17 +103,17 @@
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(91, 166);
+            this.label5.Location = new System.Drawing.Point(84, 166);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(43, 21);
+            this.label5.Size = new System.Drawing.Size(49, 21);
             this.label5.TabIndex = 7;
-            this.label5.Text = "RPM";
+            this.label5.Text = "Temp";
             // 
             // label6
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(191, 166);
+            this.label6.Location = new System.Drawing.Point(184, 166);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(43, 21);
             this.label6.TabIndex = 8;
@@ -123,7 +123,7 @@
             // 
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.Location = new System.Drawing.Point(291, 166);
+            this.label7.Location = new System.Drawing.Point(284, 166);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(47, 21);
             this.label7.TabIndex = 9;
