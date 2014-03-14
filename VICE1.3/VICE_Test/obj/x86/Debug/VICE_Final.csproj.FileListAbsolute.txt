@@ -25,15 +25,10 @@ C:\Users\Chad\Desktop\Senior Design\VICE\VICE_Test\obj\x86\Debug\VICE_Test.exe
 C:\Users\Chad\Desktop\Senior Design\VICE\VICE_Test\obj\x86\Debug\VICE_Test.pdb
 C:\Users\Chad\Desktop\Senior Design\VICE\VICE_Test\obj\x86\Debug\VICE_Final.Form1.resources
 C:\Users\Chad\Desktop\Senior Design\VICE\VICE_Test\obj\x86\Debug\VICE_Final.DataMGT.resources
-C:\Users\Chad\Chad Files\School\Senior Design\VICErep.git\VICE\VICE_Test\obj\x86\Debug\Interop.PISDK.dll
-C:\Users\Chad\Chad Files\School\Senior Design\VICErep.git\VICE\VICE_Test\obj\x86\Debug\Interop.PISDKCommon.dll
-C:\Users\Chad\Chad Files\School\Senior Design\VICErep.git\VICE\VICE_Test\obj\x86\Debug\Interop.PITimeServer.dll
-C:\Users\Chad\Chad Files\School\Senior Design\VICErep.git\VICE\VICE_Test\obj\x86\Debug\VICE_Final.csproj.ResolveComReference.cache
-C:\Users\Chad\Chad Files\School\Senior Design\VICErep.git\VICE\VICE_Test\obj\x86\Debug\VICE_Test.exe
-C:\Users\Chad\Chad Files\School\Senior Design\VICErep.git\VICE\VICE_Test\obj\x86\Debug\VICE_Test.pdb
-C:\Users\Chad\Chad Files\School\Senior Design\VICErep.git\VICE1.1\VICE_Test\obj\x86\Debug\Interop.PISDK.dll
-C:\Users\Chad\Chad Files\School\Senior Design\VICErep.git\VICE1.1\VICE_Test\obj\x86\Debug\Interop.PISDKCommon.dll
-C:\Users\Chad\Chad Files\School\Senior Design\VICErep.git\VICE1.1\VICE_Test\obj\x86\Debug\Interop.PITimeServer.dll
-C:\Users\Chad\Chad Files\School\Senior Design\VICErep.git\VICE1.1\VICE_Test\obj\x86\Debug\VICE_Final.csproj.ResolveComReference.cache
-C:\Users\Chad\Chad Files\School\Senior Design\VICErep.git\VICE1.1\VICE_Test\obj\x86\Debug\VICE_Test.exe
-C:\Users\Chad\Chad Files\School\Senior Design\VICErep.git\VICE1.1\VICE_Test\obj\x86\Debug\VICE_Test.pdb
+C:\Users\Chad\Desktop\Senior Design\VICE\VICE_Test\obj\x86\Debug\VICE_Final.csprojResolveAssemblyReference.cache
+C:\Users\Chad\Chad Files\School\Senior Design\VICErep.git\VICE1.3\VICE_Test\obj\x86\Debug\Interop.PISDK.dll
+C:\Users\Chad\Chad Files\School\Senior Design\VICErep.git\VICE1.3\VICE_Test\obj\x86\Debug\Interop.PISDKCommon.dll
+C:\Users\Chad\Chad Files\School\Senior Design\VICErep.git\VICE1.3\VICE_Test\obj\x86\Debug\Interop.PITimeServer.dll
+C:\Users\Chad\Chad Files\School\Senior Design\VICErep.git\VICE1.3\VICE_Test\obj\x86\Debug\VICE_Final.csproj.ResolveComReference.cache
+C:\Users\Chad\Chad Files\School\Senior Design\VICErep.git\VICE1.3\VICE_Test\obj\x86\Debug\VICE_Test.exe
+C:\Users\Chad\Chad Files\School\Senior Design\VICErep.git\VICE1.3\VICE_Test\obj\x86\Debug\VICE_Test.pdb
