@@ -12,12 +12,15 @@ public partial class _Default : Page
     {
         int rand2 = RandomNumber(266, 339);
         int rand1 = RandomNumber(167, 206);
+        int rand3 = RandomNumber(11, 14);
+        int rand4 = RandomNumber(00, 99);
         int totalSavings = rand2 - rand1;
 
         cost.Text = "$" + totalSavings.ToString() + ".00";
         Label1.Text = "Total Annual Operating Cost: $" + (rand2 * multiplier).ToString() + ".00";
         Label2.Text = "Total Annual Operating Cost: $" + (rand1 * multiplier).ToString() + ".00";
         Label3.Text = "Total Annual Savings";
+        Label4.Text = rand3+"."+rand4+" GPM";
     }
 protected void costButton_Click(object sender, EventArgs e)
 {
@@ -28,12 +31,15 @@ protected void costButton_Click(object sender, EventArgs e)
 
     int rand2 = RandomNumber(266, 339);
     int rand1 = RandomNumber(167, 206);
+    int rand3 = RandomNumber(11, 14);
+    int rand4 = RandomNumber(00, 99);
     int totalSavings = rand2 - rand1;
 
     cost.Text = "$" + totalSavings.ToString() +".00";
     Label1.Text = "Total Annual Operating Cost: $" + (rand2 * multiplier).ToString() + ".00";
     Label2.Text = "Total Annual Operating Cost: $" + (rand1 * multiplier).ToString() + ".00";
     Label3.Text = "Total Annual Savings";
+    Label4.Text = rand3 + "." + rand4 + " GPM";
 }
 private int RandomNumber(int min, int max)
 {

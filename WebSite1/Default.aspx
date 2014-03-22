@@ -25,6 +25,10 @@
                
             </p>
             <p></p>
+           
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;
+            <asp:Label ID="Label5" runat="server"  Font-Bold="True" Enabled="False" >15 GPM</asp:Label>
+            <p></p>
              <asp:Label ID="Label1" runat="server"   Font-Bold="True" Enabled="False"  />
             
         </div>
@@ -35,16 +39,19 @@
                 <br />
             </p>
             <p></p>
+             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+            <asp:Label ID="Label4" runat="server"  Font-Bold="True" Enabled="False" />
+            <p></p>
             <asp:Label ID="Label2" runat="server"  Font-Bold="True" Enabled="False" />
         </div>
     </div>
     <div  class ="wrapper">
         <hr />
-        <asp:Label ID="Label3" runat="server"   Font-Bold="True" Enabled="False" />
-        <asp:Label ID="cost" runat="server" Width="51px" ForeColor="Lime" Font-Bold="True" Enabled="False" />
+        <asp:Label ID="Label3" runat="server"   Font-Bold="True" Enabled="False" style="text-align:center;" Font-Size="X-Large" />
+        <asp:Label ID="cost" runat="server"  ForeColor="Lime" Font-Bold="True" Enabled="False" Font-Size="X-Large" />
         
         <p></p>
-        <asp:Label ID="LabelMult" Text="Hours Running Daily:" runat="server" Width="206px" OnClick="costButton_Click" />
+        <asp:Label ID="LabelMult" Text="Hours Running Daily:" runat="server" Width="206px" OnClick="costButton_Click" Font-Bold="True" />
          <asp:RadioButton ID="Radio1" Text="1" runat="server" Width="116px" OnClick="costButton_Click" Height="16px" GroupName="mult" />
          <asp:RadioButton ID="Radio2" Text="2" runat="server" Width="116px" OnClick="costButton_Click" Height="19px" GroupName="mult" />
          <asp:RadioButton ID="Radio3" Text="3" runat="server" Width="116px" OnClick="costButton_Click" Height="16px" GroupName="mult" />
