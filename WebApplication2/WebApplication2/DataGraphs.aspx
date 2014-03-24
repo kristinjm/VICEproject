@@ -7,6 +7,8 @@
         RPM = updatePointValue("SP14VICE_RPM", "2/27/2014 12:50:00 PM", DateTime.Now.ToString());
         FLOW = updatePointValue("SP14VICE_Flow", "2/27/2014 12:50:00 PM", DateTime.Now.ToString());
         PRESSURE = updatePointValue("SP14VICE_Pressure", "2/27/2014 12:50:00 PM", DateTime.Now.ToString());
+        POWER = updatePointValue("F13APA_POWER_BOT1", "12/6/2013 4:50:00 PM", DateTime.Now.ToString());
+        TEMP = updatePointValue("SP14VICE_Temp", "3/13/2013 1:05:00 PM", DateTime.Now.ToString());
 
         setTableValues();
 
@@ -22,6 +24,8 @@
         RPMvalue.Text = RPM.value;
         Textbox3.Text = RPM.timestamp;
         Textbox7.Text = "high";
+
+        Textbox10.Text = RPM.timestamp;
         
         FlowValue.Text = FLOW.value;
         Textbox4.Text = FLOW.timestamp;
@@ -30,6 +34,14 @@
         PresValue.Text = PRESSURE.value;
         Textbox5.Text = PRESSURE.timestamp;
         Textbox9.Text = "high";
+
+        TempValue.Text = TEMP.value;
+        Textbox12.Text = TEMP.timestamp;
+        Textbox13.Text = "low";
+
+        PowerValue.Text = POWER.value;
+        Textbox14.Text = POWER.timestamp;
+        
         
         timelbl.Text = lastValueTime;
     }
@@ -74,6 +86,21 @@
             <td>Shows rotations per minute of the motor controlling the pool pump.</td>
         </tr>
         <tr>
+            <td>VFD Frequency: </td>
+            <td>
+                <asp:DropDownList runat="server" ID="Freq" OnTextChanged="Button1_Click">
+                    <asp:ListItem>OFF</asp:ListItem>
+                    <asp:ListItem>LOW</asp:ListItem>
+                    <asp:ListItem>MEDIUM</asp:ListItem>
+                    <asp:ListItem>HIGH</asp:ListItem>
+                    <asp:ListItem>MAX</asp:ListItem>
+                </asp:DropDownList>
+            </td>
+            <td><asp:Textbox ID="Textbox10" runat="server" /></td>
+            <td><asp:Textbox ID="Textbox11" runat="server" /></td>
+            <td>Shows frequency VFD is operating at.</td>
+        </tr>
+        <tr>
             <td>Flow: </td>
             <td><asp:TextBox ID="FlowValue" runat="server" /></td>
             <td><asp:Textbox ID="Textbox4" runat="server" /></td>
@@ -87,18 +114,26 @@
             <td><asp:Textbox ID="Textbox9" runat="server" /></td>
             <td>Shows the pressure of the water coming out of the pool pump.</td>
         </tr>
+        <tr>
+            <td>Pool Temperature: </td>
+            <td><asp:TextBox ID="TempValue" runat="server" /></td>
+            <td><asp:Textbox ID="Textbox12" runat="server" /></td>
+            <td><asp:Textbox ID="Textbox13" runat="server" /></td>
+            <td>Shows the temperature of the water in the pool.</td>
+        </tr>
+        <tr>
+            <td>Power Consumption: </td>
+            <td><asp:TextBox ID="PowerValue" runat="server" /></td>
+            <td><asp:Textbox ID="Textbox14" runat="server" /></td>
+            <td><asp:Textbox ID="Textbox15" runat="server" /></td>
+            <td>Shows the power being used by the pool system.</td>
+        </tr>
         </table>
         Last updated : <asp:Label ID="timelbl" runat="server"/>
         <br />
-        <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Change RPM" />
+        <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Change Frequency" />
         </div>
         </ContentTemplate>
         </asp:UpdatePanel>
-        <br />
-        <h2>Pool Pump System Diagram</h2>
-        <div>
-             <img src="Project1.jpg" alt="System Diagram" height="300" />
-        </div>
-        <br />
-
+        
 </asp:Content>
