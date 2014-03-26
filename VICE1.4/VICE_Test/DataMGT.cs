@@ -94,7 +94,7 @@ namespace VICE_Final
                         Console.WriteLine(ex.Message);
                     }
                     break;
-                case "L":                          //if connection
+                case "L":                          //if Lock
 
                     try
                     {
