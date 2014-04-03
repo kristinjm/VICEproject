@@ -1,0 +1,35 @@
+C:\Users\eSmartServer\Documents\Visual Studio 2010\Projects\PI_Inserter\PI_Inserter\bin\Debug\PI_Inserter.exe
+C:\Users\eSmartServer\Documents\Visual Studio 2010\Projects\PI_Inserter\PI_Inserter\bin\Debug\PI_Inserter.pdb
+C:\Users\eSmartServer\Documents\Visual Studio 2010\Projects\PI_Inserter\PI_Inserter\obj\x86\Debug\Interop.PISDK.dll
+C:\Users\eSmartServer\Documents\Visual Studio 2010\Projects\PI_Inserter\PI_Inserter\obj\x86\Debug\Interop.PISDKCommon.dll
+C:\Users\eSmartServer\Documents\Visual Studio 2010\Projects\PI_Inserter\PI_Inserter\obj\x86\Debug\Interop.PITimeServer.dll
+C:\Users\eSmartServer\Documents\Visual Studio 2010\Projects\PI_Inserter\PI_Inserter\obj\x86\Debug\PI_Inserter.csproj.ResolveComReference.cache
+C:\Users\eSmartServer\Documents\Visual Studio 2010\Projects\PI_Inserter\PI_Inserter\obj\x86\Debug\PI_Inserter.Properties.Resources.resources
+C:\Users\eSmartServer\Documents\Visual Studio 2010\Projects\PI_Inserter\PI_Inserter\obj\x86\Debug\PI_Inserter.csproj.GenerateResource.Cache
+C:\Users\eSmartServer\Documents\Visual Studio 2010\Projects\PI_Inserter\PI_Inserter\obj\x86\Debug\PI_Inserter.exe
+C:\Users\eSmartServer\Documents\Visual Studio 2010\Projects\PI_Inserter\PI_Inserter\obj\x86\Debug\PI_Inserter.pdb
+C:\Users\eSmartServer\Documents\Visual Studio 2010\Projects\PI_Inserter\PI_Inserter\obj\x86\Debug\PI_Inserter.Form1.resources
+C:\Users\Chad\Desktop\Senior Design\PI_Inserter\PI_Inserter\obj\x86\Debug\Interop.PISDK.dll
+C:\Users\Chad\Desktop\Senior Design\PI_Inserter\PI_Inserter\obj\x86\Debug\Interop.PISDKCommon.dll
+C:\Users\Chad\Desktop\Senior Design\PI_Inserter\PI_Inserter\obj\x86\Debug\Interop.PITimeServer.dll
+C:\Users\Chad\Desktop\Senior Design\PI_Inserter\PI_Inserter\obj\x86\Debug\PI_Inserter.csproj.ResolveComReference.cache
+C:\Users\Chad\Desktop\Senior Design\PI_Inserter\PI_Inserter\obj\x86\Debug\PI_Inserter.exe
+C:\Users\Chad\Desktop\Senior Design\PI_Inserter\PI_Inserter\obj\x86\Debug\PI_Inserter.pdb
+C:\Users\Chad\Desktop\Senior Design\PI_Inserter\PI_Inserter\bin\Debug\PI_Inserter.exe
+C:\Users\Chad\Desktop\Senior Design\PI_Inserter\PI_Inserter\bin\Debug\PI_Inserter.pdb
+C:\Users\Chad\Desktop\Senior Design\PI_Inserter\PI_Inserter\obj\x86\Debug\PI_Inserter.csprojResolveAssemblyReference.cache
+C:\Users\Chad\Desktop\Senior Design\PI_Inserter\PI_Inserter\obj\x86\Debug\PI_Inserter.Form1.resources
+C:\Users\Chad\Desktop\Senior Design\PI_Inserter\PI_Inserter\obj\x86\Debug\PI_Inserter.Properties.Resources.resources
+C:\Users\Chad\Desktop\Senior Design\PI_Inserter\PI_Inserter\obj\x86\Debug\PI_Inserter.csproj.GenerateResource.Cache
+C:\Users\Chad\Desktop\Senior Design\PI_Inserter 2.0\PI_Inserter\obj\x86\Debug\Interop.PISDK.dll
+C:\Users\Chad\Desktop\Senior Design\PI_Inserter 2.0\PI_Inserter\obj\x86\Debug\Interop.PISDKCommon.dll
+C:\Users\Chad\Desktop\Senior Design\PI_Inserter 2.0\PI_Inserter\obj\x86\Debug\Interop.PITimeServer.dll
+C:\Users\Chad\Desktop\Senior Design\PI_Inserter 2.0\PI_Inserter\obj\x86\Debug\PI_Inserter.csproj.ResolveComReference.cache
+C:\Users\Chad\Desktop\Senior Design\PI_Inserter 2.0\PI_Inserter\obj\x86\Debug\PI_Inserter.exe
+C:\Users\Chad\Desktop\Senior Design\PI_Inserter 2.0\PI_Inserter\obj\x86\Debug\PI_Inserter.pdb
+C:\Users\Chad\Desktop\Senior Design\PI_Inserter 2.0\PI_Inserter\bin\Debug\PI_Inserter.exe
+C:\Users\Chad\Desktop\Senior Design\PI_Inserter 2.0\PI_Inserter\bin\Debug\PI_Inserter.pdb
+C:\Users\Chad\Desktop\Senior Design\PI_Inserter 2.0\PI_Inserter\obj\x86\Debug\PI_Inserter.csprojResolveAssemblyReference.cache
+C:\Users\Chad\Desktop\Senior Design\PI_Inserter 2.0\PI_Inserter\obj\x86\Debug\PI_Inserter.Form1.resources
+C:\Users\Chad\Desktop\Senior Design\PI_Inserter 2.0\PI_Inserter\obj\x86\Debug\PI_Inserter.Properties.Resources.resources
+C:\Users\Chad\Desktop\Senior Design\PI_Inserter 2.0\PI_Inserter\obj\x86\Debug\PI_Inserter.csproj.GenerateResource.Cache
