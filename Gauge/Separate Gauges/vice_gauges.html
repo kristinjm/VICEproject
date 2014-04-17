@@ -1,0 +1,113 @@
+﻿<html>
+<head>
+    <title>VICE Gauges</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <!-- Import the bindows gauges javascriptpackage -->
+    <script type="text/javascript" src="bindows_gauges/bindows_gauges.js"></script>
+</head>
+<body>
+    <!-- Create a div to hold the gauge -->
+    <div id="gaugeDivrpm" style="width: 200px; height: 200px"></div>
+    <div id="gaugeDivpsi" style="width: 200px; height: 200px"></div>
+    <div id="gaugeDivgpm" style="width: 200px; height: 200px"></div>
+    
+    <input type="button" value="rpm" onclick="click1()" />
+    <input type="button" value="psi" onclick="click2()" />
+    <input type="button" value="gpm" onclick="click3()" />
+
+    <script type="text/javascript">
+
+        // Load the gauge into the div
+        var gauge_rpm = bindows.loadGaugeIntoDiv("gauges/rpm_gauge.xml", "gaugeDivrpm");
+        var gauge_psi = bindows.loadGaugeIntoDiv("gauges/psi_gauge.xml", "gaugeDivpsi");
+        var gauge_gpm = bindows.loadGaugeIntoDiv("gauges/gpm_gauge.xml", "gaugeDivgpm");
+
+        var rpm = prompt("Please enter RPM", "0");
+        var psi = prompt("Please enter PSI", "0");
+        var gpm = prompt("Please enter GPM", "0");
+
+
+        var t1 = 0;
+        var t2 = 0;
+        var t3 = 0;
+
+        var interval1 = 1;
+        var interval2 = 1;
+        var interval3 = 1;
+
+        function click1()
+        {
+            rpm = prompt("Please enter RPM", "0");
+            updateGauge1();
+        }
+
+        function click2()
+        {
+            psi = prompt("Please enter PSI", "0");
+            updateGauge2();
+        }
+
+        function click3()
+        {
+            gpm = prompt("Please enter GPM", "0");
+            updateGauge3();
+        }
+
+
+        function updateGauge1()
+        {
+            if(rpm >= t1)
+            {
+                if (t1 == rpm) {return}
+                    t1 += interval1;
+                    gauge_rpm.needle.setValue(t1);
+                    gauge_rpm.label.setText(Math.round(t1));
+            }
+            if (rpm < t1) {
+                if (t1 == rpm) { return }
+                t1 -= interval1;
+                gauge_rpm.needle.setValue(t1);
+                gauge_rpm.label.setText(Math.round(t1));
+            }
+        }
+        setInterval(updateGauge1, interval1);   //1000 == 1 second
+
+        function updateGauge2()
+        {
+            if (psi >= t2)
+            {
+                if (t2 == psi) { return }
+                t2 += interval2;
+                gauge_psi.needle.setValue(t2);
+                gauge_psi.label.setText(Math.round(t2));
+            }
+            if (psi < t2) {
+                if (t2 == psi) { return }
+                t2 -= interval2;
+                gauge_psi.needle.setValue(t2);
+                gauge_psi.label.setText(Math.round(t2));
+            }
+        }
+        setInterval(updateGauge2, interval2);
+
+        function updateGauge3()
+        {
+            if (gpm >= t3)
+            {
+                if (t3 == gpm) { return }
+                t3 += interval3;
+                gauge_gpm.needle.setValue(t3);
+                gauge_gpm.label.setText(Math.round(t3));
+            }
+            if (gpm < t3)
+            {
+                if (t3 == gpm) { return }
+                t3 -= interval3;
+                gauge_gpm.needle.setValue(t3);
+                gauge_gpm.label.setText(Math.round(t3));
+            }
+        }
+        setInterval(updateGauge3, interval3);
+    </script>
+</body>
+</html>

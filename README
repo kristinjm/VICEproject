@@ -1,0 +1,29 @@
+download git bash for windows
+
+check for ssh file:
+cd ~/.ssh
+if it does not exist:
+ssh-keygen
+enter no pass phrase - enter 3 times
+----set up a free account on github and enter ssh key
+----copy contents of id_rsa.pub file as ssh key
+----send me the username and I can add you to the project VICEproject
+
+make a local directory:
+mkdir VICEgit
+cd VICEgit
+git init
+--if you want to add files:
+--git add README
+--git commit -m 'first commit'
+
+connect to github server:
+git remote add origin https://github.com/kristinjm/VICEproject.git
+--enter your own username
+--origin is now the name of the remote reposistory
+--currently working in branch "master"
+to send local dir to github:
+git push origin mster
+--will ask for github username
+to get files from github into your dir:
+git pull origin master

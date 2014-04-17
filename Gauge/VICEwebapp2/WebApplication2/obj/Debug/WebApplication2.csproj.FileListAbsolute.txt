@@ -1,0 +1,168 @@
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\Antlr3.Runtime.dll
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\EntityFramework.dll
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.dll
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\Microsoft.Owin.dll
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.dll
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\Owin.dll
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\System.Web.Optimization.dll
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\System.Web.Providers.dll
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\WebGrease.dll
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\System.Web.Optimization.xml
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\Antlr3.Runtime.pdb
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\EntityFramework.xml
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.xml
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\Microsoft.Owin.xml
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.xml
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\obj\Debug\Interop.PISDK.dll
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\obj\Debug\Interop.PISDKCommon.dll
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\obj\Debug\Interop.PISDKDlg.dll
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\obj\Debug\Interop.PITimeServer.dll
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.ResolveComReference.cache
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\bin\WebApplication2.dll
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\bin\Antlr3.Runtime.dll
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\bin\EntityFramework.dll
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\bin\EntityFramework.SqlServer.dll
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\bin\Microsoft.Owin.dll
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\bin\Microsoft.Owin.Security.dll
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\bin\Newtonsoft.Json.dll
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\bin\Owin.dll
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\bin\System.Web.Optimization.dll
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\bin\System.Web.Providers.dll
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\bin\WebGrease.dll
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\bin\System.Web.Optimization.xml
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\bin\Antlr3.Runtime.pdb
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\bin\Newtonsoft.Json.xml
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\bin\EntityFramework.xml
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\bin\EntityFramework.SqlServer.xml
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\bin\Microsoft.Owin.xml
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\bin\Microsoft.Owin.Security.xml
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\obj\Debug\Interop.PISDK.dll
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\obj\Debug\Interop.PISDKCommon.dll
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\obj\Debug\Interop.PISDKDlg.dll
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\obj\Debug\Interop.PITimeServer.dll
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\obj\Debug\WebApplication2.csproj.ResolveComReference.cache
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\eSmartServer\Documents\Senior Design Projects\VICE2014\VICEwebapp2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\bin\WebApplication2.dll
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\bin\Antlr3.Runtime.dll
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\bin\EntityFramework.dll
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\bin\EntityFramework.SqlServer.dll
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\bin\Microsoft.Owin.dll
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\bin\Microsoft.Owin.Security.dll
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\bin\Newtonsoft.Json.dll
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\bin\Owin.dll
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\bin\System.Web.Optimization.dll
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\bin\System.Web.Providers.dll
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\bin\WebGrease.dll
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\bin\System.Web.Optimization.xml
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\bin\Antlr3.Runtime.pdb
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\bin\Newtonsoft.Json.xml
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\bin\EntityFramework.xml
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\bin\EntityFramework.SqlServer.xml
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\bin\Microsoft.Owin.xml
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\bin\Microsoft.Owin.Security.xml
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\obj\Debug\Interop.PISDK.dll
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\obj\Debug\Interop.PISDKCommon.dll
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\obj\Debug\Interop.PISDKDlg.dll
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\obj\Debug\Interop.PITimeServer.dll
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\obj\Debug\WebApplication2.csproj.ResolveComReference.cache
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\Mark\Desktop\VICEwebapp2\WebApplication2\obj\Debug\WebApplication2.pdb

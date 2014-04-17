@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VICE_Final", "VICE_Test\VICE_Final.csproj", "{7A4DDA49-8DCE-47A9-85B4-4D619FF2F928}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C8FC056C-1428-4FF5-AEFC-7FDC849F5516}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A4DDA49-8DCE-47A9-85B4-4D619FF2F928}.Debug|x86.ActiveCfg = Debug|x86
+		{7A4DDA49-8DCE-47A9-85B4-4D619FF2F928}.Debug|x86.Build.0 = Debug|x86
+		{7A4DDA49-8DCE-47A9-85B4-4D619FF2F928}.Release|x86.ActiveCfg = Release|x86
+		{7A4DDA49-8DCE-47A9-85B4-4D619FF2F928}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
