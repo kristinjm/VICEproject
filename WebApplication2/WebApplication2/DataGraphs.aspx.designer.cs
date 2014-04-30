@@ -13,6 +13,15 @@ namespace WebApplication2 {
     public partial class _DataGraphs {
         
         /// <summary>
+        /// SM1 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.ScriptManager SM1;
+        
+        /// <summary>
         /// Timer1 control.
         /// </summary>
         /// <remarks>
@@ -40,22 +49,49 @@ namespace WebApplication2 {
         protected global::System.Web.UI.WebControls.TextBox ConnectValue;
         
         /// <summary>
-        /// Textbox2 control.
+        /// ConnectTimestamp control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox Textbox2;
+        protected global::System.Web.UI.WebControls.TextBox ConnectTimestamp;
         
         /// <summary>
-        /// Textbox6 control.
+        /// ConnectStatus control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox Textbox6;
+        protected global::System.Web.UI.WebControls.TextBox ConnectStatus;
+        
+        /// <summary>
+        /// LockValue control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox LockValue;
+        
+        /// <summary>
+        /// LockTimestamp control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox LockTimestamp;
+        
+        /// <summary>
+        /// Lockstatus control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox Lockstatus;
         
         /// <summary>
         /// RPMvalue control.
@@ -67,49 +103,49 @@ namespace WebApplication2 {
         protected global::System.Web.UI.WebControls.TextBox RPMvalue;
         
         /// <summary>
-        /// Textbox3 control.
+        /// RPMtimestamp control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox Textbox3;
+        protected global::System.Web.UI.WebControls.TextBox RPMtimestamp;
         
         /// <summary>
-        /// Textbox7 control.
+        /// RPMstatus control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox Textbox7;
+        protected global::System.Web.UI.WebControls.TextBox RPMstatus;
         
         /// <summary>
-        /// Freq control.
+        /// freqvalue control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList Freq;
+        protected global::System.Web.UI.WebControls.TextBox freqvalue;
         
         /// <summary>
-        /// Textbox10 control.
+        /// Freqtimestamp control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox Textbox10;
+        protected global::System.Web.UI.WebControls.TextBox Freqtimestamp;
         
         /// <summary>
-        /// Textbox11 control.
+        /// Freqstatus control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox Textbox11;
+        protected global::System.Web.UI.WebControls.TextBox Freqstatus;
         
         /// <summary>
         /// FlowValue control.
@@ -121,22 +157,49 @@ namespace WebApplication2 {
         protected global::System.Web.UI.WebControls.TextBox FlowValue;
         
         /// <summary>
-        /// Textbox4 control.
+        /// Flowtimestamp control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox Textbox4;
+        protected global::System.Web.UI.WebControls.TextBox Flowtimestamp;
         
         /// <summary>
-        /// Textbox8 control.
+        /// Flowstatus control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox Textbox8;
+        protected global::System.Web.UI.WebControls.TextBox Flowstatus;
+        
+        /// <summary>
+        /// DesiredFlowValue control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox DesiredFlowValue;
+        
+        /// <summary>
+        /// DFtimestamp control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox DFtimestamp;
+        
+        /// <summary>
+        /// DFstatus control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox DFstatus;
         
         /// <summary>
         /// PresValue control.
@@ -148,22 +211,22 @@ namespace WebApplication2 {
         protected global::System.Web.UI.WebControls.TextBox PresValue;
         
         /// <summary>
-        /// Textbox5 control.
+        /// Prestimestamp control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox Textbox5;
+        protected global::System.Web.UI.WebControls.TextBox Prestimestamp;
         
         /// <summary>
-        /// Textbox9 control.
+        /// PresStatus control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox Textbox9;
+        protected global::System.Web.UI.WebControls.TextBox PresStatus;
         
         /// <summary>
         /// TempValue control.
@@ -175,22 +238,76 @@ namespace WebApplication2 {
         protected global::System.Web.UI.WebControls.TextBox TempValue;
         
         /// <summary>
-        /// Textbox12 control.
+        /// TempTimestamp control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox Textbox12;
+        protected global::System.Web.UI.WebControls.TextBox TempTimestamp;
         
         /// <summary>
-        /// Textbox13 control.
+        /// TempStatus control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox Textbox13;
+        protected global::System.Web.UI.WebControls.TextBox TempStatus;
+        
+        /// <summary>
+        /// VoltValue control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox VoltValue;
+        
+        /// <summary>
+        /// VoltTimestamp control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox VoltTimestamp;
+        
+        /// <summary>
+        /// VoltStatus control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox VoltStatus;
+        
+        /// <summary>
+        /// CurrValue control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox CurrValue;
+        
+        /// <summary>
+        /// CurrTimestamp control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox CurrTimestamp;
+        
+        /// <summary>
+        /// CurrStatus control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox CurrStatus;
         
         /// <summary>
         /// PowerValue control.
@@ -202,22 +319,49 @@ namespace WebApplication2 {
         protected global::System.Web.UI.WebControls.TextBox PowerValue;
         
         /// <summary>
-        /// Textbox14 control.
+        /// PowerTimestamp control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox Textbox14;
+        protected global::System.Web.UI.WebControls.TextBox PowerTimestamp;
         
         /// <summary>
-        /// Textbox15 control.
+        /// PowerStatus control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox Textbox15;
+        protected global::System.Web.UI.WebControls.TextBox PowerStatus;
+        
+        /// <summary>
+        /// costvalue control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox costvalue;
+        
+        /// <summary>
+        /// costTimestamp control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox costTimestamp;
+        
+        /// <summary>
+        /// costStatus control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox costStatus;
         
         /// <summary>
         /// timelbl control.
@@ -227,14 +371,5 @@ namespace WebApplication2 {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label timelbl;
-        
-        /// <summary>
-        /// Button1 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Button Button1;
     }
 }

@@ -354,7 +354,7 @@ a:focus {
 img {
   vertical-align: middle;
     height: 249px;
-    width: 258px;
+    width: 254px;
 }
 
 .img-responsive {
@@ -5334,6 +5334,7 @@ a.list-group-item:focus {
   background-color: #ffffff;
   border: 1px solid transparent;
   border-radius: 4px;
+  align-content:center;
   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
           box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
 }

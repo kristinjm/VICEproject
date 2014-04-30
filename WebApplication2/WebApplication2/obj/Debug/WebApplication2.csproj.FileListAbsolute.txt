@@ -54,3 +54,4 @@ C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebAppli
 C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\obj\Debug\Interop.PISDKDlg.dll
 C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\obj\Debug\Interop.PITimeServer.dll
 C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.ResolveComReference.cache
+C:\Users\Kristin\Documents\CompE490-SeniorDesign\webapp\WebApplication2\WebApplication2\bin\ZedGraph.dll

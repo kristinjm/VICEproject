@@ -7,6 +7,7 @@ using System.Web.UI.WebControls;
 using PISDK;
 using PITimeServer;
 using System.Data;
+using System.Windows.Forms;
 
 namespace WebApplication2
 {
@@ -28,14 +29,18 @@ namespace WebApplication2
         public pointData FLOW;
         public pointData PRESSURE;
         public pointData POWER;
-        public pointData TEMP;     // fo rmain page only need: flow, freq, power, and cost
+        public pointData TEMP;     // for main page only need: flow, freq, power, and cost
+        public pointData USERLOCK;
         public float cost;
         public string lastValueTime;
-        Timer schedtimer;
+        public string slider = "slide";
+        public string desiredFlow = "30";
+        public string desiredRPM = "30";
 
 
         protected void Page_Load(object sender, EventArgs e)
         {
+            ///// Connect to pi server /////
             PISDK.PISDK SDK = new PISDK.PISDK();            //Creates new instance of PI SDK
             PI_SERVER = SDK.Servers["esmartserver-pc"];     //Assign PI server to local machine [Piservername]
             PI_SERVER.Open("piadmin");          //Open connection through default user
@@ -46,8 +51,16 @@ namespace WebApplication2
             FLOW = updatePointValue("SP14VICE_Flow", "2/27/2014 12:50:00 PM", DateTime.Now.ToString());
             PRESSURE = updatePointValue("SP14VICE_Pressure", "2/27/2014 12:50:00 PM", DateTime.Now.ToString());
             POWER = updatePointValue("F13APA_POWER_BOT1", "12/6/2013 4:50:00 PM", DateTime.Now.ToString());
+            USERLOCK = updatePointValue("SP14VICE_Lock", "12/6/2013 4:50:00 PM", DateTime.Now.ToString()); // 1= unlocked, 0 = locked
 
-
+            if (USERLOCK.value == "1")
+            {
+                lockoutdisp.InnerHtml = "OFF - UNLOCKED";
+            }
+            else if (USERLOCK.value == "0")
+            {
+                lockoutdisp.InnerHtml = "ON - LOCKED";
+            }
         }
 
         public pointData updatePointValue(string tagName, string start, string end)
@@ -70,6 +83,27 @@ namespace WebApplication2
             return temp;
         }
 
+        public pointData getPointList(string tagName, string start, string end)
+        {
+            PISDK.PIValues PIconnect = new PISDK.PIValues();  //Create new instance of PI value
+            PIconnect = PI_SERVER.PIPoints[tagName].Data.RecordedValues(start, end);
+            pointData temp = new pointData();
+
+            foreach (PIValue val in PIconnect)
+            {
+                if (val.Value as DigitalState == null) // if point has data, Digital state means point has no data
+                {
+                    object objtemp = val.Value;
+                    temp.value = objtemp.ToString();
+                    objtemp = val.TimeStamp.LocalDate;
+                    temp.timestamp = objtemp.ToString();
+                }
+            }
+            lastValueTime = end;
+            return temp;
+        }
+
+        //not used:
         protected void flowChange(object sender, EventArgs e)
         {
             string flow = "0";
@@ -86,11 +120,14 @@ namespace WebApplication2
 
         public void setPointValue(string tagName, string value)
         {
-            PISDK.PIValue PIconnect = new PISDK.PIValue();  //Create new instance of PI value
-            PIconnect.Value = value;
-            PITimeServer.PITime time = new PITimeServer.PITime();
-            PIconnect.TimeStamp = time;
-            PI_SERVER.PIPoints[tagName].Data.UpdateValue(PIconnect, "*", PISDK.DataMergeConstants.dmInsertDuplicates, null);
+            if (USERLOCK.value == "1") // if user lock is unlocked
+            {
+                PISDK.PIValue PIconnect = new PISDK.PIValue();  //Create new instance of PI value
+                PIconnect.Value = value;
+                PITimeServer.PITime time = new PITimeServer.PITime();
+                PIconnect.TimeStamp = time;
+                PI_SERVER.PIPoints[tagName].Data.UpdateValue(PIconnect, "*", PISDK.DataMergeConstants.dmInsertDuplicates, null);
+            }
         }
 
         public float findCost(int hours, float rate)
@@ -113,7 +150,12 @@ namespace WebApplication2
            // await System.Threading.Tasks.Task.Delay(3000); //method must be async
         }
 
-        
+        public void rpmsliderchange(object sender, EventArgs e)
+        {
+            setPointValue("SP14VICE_RPM", desiredRPM);
+            //slider = flowout.innerHTML;
+
+        }
         
     }//end
 }
